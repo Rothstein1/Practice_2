@@ -1,1 +1,1 @@
-print("can't stop, won't stop- bad boy")
+print("can't stop, won't stop")
